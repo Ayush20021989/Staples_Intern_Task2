@@ -19,7 +19,7 @@ Create a web service that supports website search operations for a fictional e-c
 
 ### 4. API Design:
    - Design **RESTful APIs** for search functionality, including endpoints for searching products and retrieving detailed product information.
-   - Explore the API documentation using **Swagger UI**: [Swagger Documentation](http://localhost:8080/swagger-ui/index.html#/)
+   - Explore the API documentation using **Swagger UI**: [Swagger Documentation](http://localhost:8080/swagger-ui/index.html/)
 
 ### 5. Documentation:
    - Create comprehensive documentation for the APIs, including usage examples and response formats.
@@ -33,7 +33,12 @@ Create a web service that supports website search operations for a fictional e-c
 
 - **API Demonstration:**
    - Utilized **Postman** to expose endpoints and demonstrate search mechanisms.
-   - Access and explore the API using **Swagger UI** at [Swagger Documentation](http://localhost:8080/swagger-ui/index.html#/)
+   - Access and explore the API using **Swagger UI** at [Swagger Documentation](http://localhost:8080/swagger-ui/index.html/)
+
+### 📹 Small Demonstration:
+   - Check out a brief video demonstration of the E-Commerce Search Service [here](
+https://github.com/Ayush20021989/Staples_Intern_Task2/assets/100331783/4fbebe94-2e35-4707-b5a3-44c1a173336a).
+
 
 ## 🏃‍♀️ Running the Application:
 
